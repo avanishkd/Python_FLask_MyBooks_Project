@@ -1,0 +1,7 @@
+2018-09-18 23:12:12,140 In changing_password function of DaoUser layer
+2018-09-18 23:12:12,170 In login in function
+2018-09-18 23:12:12,192 Logged In
+2018-09-18 23:12:12,197 In sign up function for buyer
+2018-09-18 23:12:12,218 User details added to the database
+2018-09-18 23:12:12,219 In sign up function for seller
+2018-09-18 23:12:12,239 Already present
